@@ -1,0 +1,9 @@
+.Banner {
+    background: darkgreen;
+    border-radius: 75px;
+    height: 25vh;
+}
+
+.Banner img {
+    height: 23vh;
+}

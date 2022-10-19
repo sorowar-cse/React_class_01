@@ -1,0 +1,13 @@
+.remtime {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: darkolivegreen;
+    padding: 25px;
+}
+
+.day {
+    border: 3px solid darkgoldenrod;
+    border-radius: 60%;
+    background: yellow;
+}
